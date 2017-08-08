@@ -1,8 +1,8 @@
 galaxy_info:
-  author: Eric Anderson
+  author: Medhamsh Vuthpala
   description: Ansible role that installs Docker
-  company: Avi Networks
-  issue_tracker_url: https://github.com/avinetworks/ansible-role-docker/issues
+  company: None
+  issue_tracker_url: https://github.com/medhamsh/ansible-role-docker-1/wiki
   license: MIT
   min_ansible_version: 2.0.0
   github_branch: master
